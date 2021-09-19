@@ -117,11 +117,11 @@ Lesson that was learned here: sometimes its better to use simple solutions than 
 </table>
 
 ## Statistics
-> As of February 12th, 2021
+> As of September 18th, 2021
 <table>
   <thead>
     <tr>
-      <th><img src="https://i.imgur.com/9rx2vVt.png"></th>
+      <th><img src="https://i.imgur.com/0ZEk2gB.png"></th>
     </tr>
   </thead>
 </table>
